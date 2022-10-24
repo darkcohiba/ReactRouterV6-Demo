@@ -2,6 +2,7 @@ function Header() {
     return (
         <div>
             <div>Header page</div>
+            
         </div>
     );
 }
